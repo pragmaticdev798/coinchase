@@ -30,6 +30,7 @@ git clone github.com/pragmaticdev798/coinchase
 This project uses the CoinGecko API v3. No API key needed! but there are rate limits
 
 ## Screenshots
+![j](https://github.com/user-attachments/assets/373815c5-7332-4605-b491-d3181db0d15a)
 
 
 ## Known Issues
